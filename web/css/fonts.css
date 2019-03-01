@@ -1,0 +1,84 @@
+/* MuseoSans */
+@font-face {
+    font-family: 'MuseoSans_300';
+    src: url(/web/images/font/MuseoSans_300.otf);
+}
+
+@font-face {
+    font-family: 'MuseoSans_500';
+    src: url(/web/images/font/MuseoSans_500.otf);
+}
+
+@font-face {
+    font-family: 'MuseoSans_700';
+    src: url(/web/images/font/MuseoSans_700.otf);
+}
+
+@font-face {
+    font-family: 'MuseoSans_900';
+    src: url(/web/images/font/MuseoSans_900.otf);
+}
+/* Gotham */
+@font-face {
+    font-family: 'Gotham';
+    src: url('/web/images/font/gotham-black-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothambold';
+    src: url('/web/images/font/gotham-bold_0-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-bold_0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothambold_italic';
+    src: url('/web/images/font/gotham-bold-italic-1361523260-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-bold-italic-1361523260-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothambook_italic';
+    src: url('/web/images/font/gotham-book-italic-1361523255-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-book-italic-1361523255-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothamlight';
+    src: url('/web/images/font/gotham-light-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothamlight_italic';
+    src: url('/web/images/font/gotham-light-italic-1361523254-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-light-italic-1361523254-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothammedium';
+    src: url('/web/images/font/gotham-medium-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gothamthin';
+    src: url('/web/images/font/gotham-thin-webfont.woff2') format('woff2'),
+         url('/web/images/font/gotham-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
